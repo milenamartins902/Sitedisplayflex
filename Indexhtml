@@ -1,0 +1,21 @@
+<!Doctype html>
+<html lang="pt-br>
+ <head>
+   <meta charset="UTF-8">
+   <title>site display flex<title>
+<style>
+.box{
+    display:flex;align-items:center;height:100px;}
+.item{
+      background-color:yellow;
+      }
+</head>
+<body>
+  <h1>este site tem um display flexivel</h1>
+  <div class="box">
+    <div class="item">ITEM 1</div>
+    <div class="item">item 2</div>
+    <div class="item">item 3</div>
+  </div>
+</body>
+</html>
